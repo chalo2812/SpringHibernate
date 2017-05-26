@@ -1,1 +1,1 @@
-"# SpringHibernate branch 1" 
+"# SpringHibernate branch 1 junto al 2" 
